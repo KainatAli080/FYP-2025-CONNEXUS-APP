@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "583671789866",
+    "firebase_url": "https://fyp-connexus-default-rtdb.firebaseio.com",
+    "project_id": "fyp-connexus",
+    "storage_bucket": "fyp-connexus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583671789866:android:6c97e0a256394f33dd4653",
+        "android_client_info": {
+          "package_name": "com.Connexus.Connexus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqKLya3m25Qc8FwVsisoYmzrXqmcp0C_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583671789866:android:f8d9d73e30a952ffdd4653",
+        "android_client_info": {
+          "package_name": "com.Connexus.ConnexusVR"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqKLya3m25Qc8FwVsisoYmzrXqmcp0C_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
